@@ -23,7 +23,7 @@ Styled as a card with hover effects on list items.
 
 FAQ Accordion (faq.html):
 
-Expand/collapse FAQ sections using HTML <details> (no JavaScript).
+Expand/collapse FAQ sections using HTML  (no JavaScript).
 Styled with card layout, custom arrows, and hover transitions.
 
 
@@ -35,3 +35,15 @@ Star Rating (Bonus): 1–5 star widget on form with hover animations.
 No Layout Shift: Smooth transitions for buttons, links, and stars.
 Modern UI: Clean typography (Inter), card layouts, shadows, consistent colors.
 
+
+How to Run
+
+
+Clone the repo:
+git clone https://github.com/your-username/ntwist_frontend_assignment.git
+
+Navigate to directory:
+cd ntwist_frontend_assignment
+
+Open index.html in a browser.
+Use sidebar to navigate to other pages.
